@@ -1,0 +1,21 @@
+body{
+	background-image: url("bj.jpg");
+	background-color: pink;
+
+}
+h3{
+   color:white;
+   background-color: black;
+   width: 22%;
+   text-align: center;
+   margin-top: 5%;
+}
+
+h1{
+	color:white;
+	background-color: black;
+	width: 45%;
+	text-align: center;
+	margin-left: 27%;
+	margin-top: 10%;
+}
